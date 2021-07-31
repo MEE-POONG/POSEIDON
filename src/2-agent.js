@@ -9,6 +9,7 @@ function AgentPage() {
                 <Row>
                     <Col md={6}>
                         <img
+                            alt=""
                             src={`${process.env.PUBLIC_URL}/img-1536865296-2286-7334-p-061901E5-B79C-1239-158550691CA9A466-2544003__FocalPointCropWzQyNyw2NDAsNDcsNTAsODUsInBuZyIsNjUsMi41XQ.png`}
                             style={{
                                 maxWidth: "-webkit-fill-available"

@@ -14,6 +14,7 @@ function HeaderPage() {
                 <Col>
                     <center>
                         <img
+                            alt=""
                             style={{ paddingTop: "145px" }}
                             src={`${process.env.PUBLIC_URL}/received_6169362686407949.webp`}
                             width="700px"
@@ -23,6 +24,7 @@ function HeaderPage() {
                 <Col style={{ marginTop: "-550px" }}>
                     <center>
                         <img
+                            alt=""
                             src={`${process.env.PUBLIC_URL}/received_1134637683713370.webp`}
                             width="550px"
                             height="450px"
@@ -32,6 +34,7 @@ function HeaderPage() {
                 <Col style={{ marginTop: "-640px" }}>
                     <center>
                         <img
+                            alt=""
                             src={`${process.env.PUBLIC_URL}/received_215674923827755.webp`}
                             width="650px"
                         />
